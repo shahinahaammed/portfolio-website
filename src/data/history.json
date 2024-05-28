@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Full Stack Developer Training",
+    "organisation": "Dataspot Technologies",
+    "startDate": "Aug, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/logo-1.png"
+  },
+  {
+    "role": "Front End Development Internship",
+    "organisation": "Dataspot Technologies",
+    "startDate": "Nov, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on designing side", "Designed the control panel"],
+    "imageSrc": "history/logo-1.png"
+  }
+]
