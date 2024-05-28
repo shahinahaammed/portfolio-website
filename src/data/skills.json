@@ -16,8 +16,21 @@
       "imageSrc": "skills/node.png"
     },
     {
+<<<<<<< HEAD
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png"
+=======
+      "title": "GraphQL",
+      "imageSrc": "skills/graphql.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+>>>>>>> 760b816310b888c64c419e7342f52dd4d4f0c9ae
     }
   ]
   

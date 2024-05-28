@@ -21,7 +21,13 @@ export const Navbar = () => {
           alt="menu-button"
           onClick={()=>{setMenuOpen(!menuOpen)}}
         />
+<<<<<<< HEAD
         <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`} onClick={()=> setMenuOpen(false)}>
+=======
+        <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`} accordion 
+          onClick={()=> setMenuOpen(false)}
+        >
+>>>>>>> 760b816310b888c64c419e7342f52dd4d4f0c9ae
           <li>
             <a href="#about">About</a>
           </li>
