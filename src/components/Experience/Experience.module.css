@@ -75,7 +75,6 @@
   align-items: center;
   gap: 17px;
   background-color: #19376d;
-<<<<<<< HEAD
   background: linear-gradient(90deg, #043449 0%, rgba(25, 55, 109, 0) 100%);
   border-radius: 10px;
   padding: 24px;
@@ -84,15 +83,6 @@
 
 .historyItem img {
     width: 130px;
-=======
-  background: linear-gradient(90deg, #19376d 0%, rgba(25, 55, 109, 0) 100%);
-  border-radius: 10px;
-  padding: 24px;
-}
-
-.historyItem img {
-    width: 50px;
->>>>>>> 760b816310b888c64c419e7342f52dd4d4f0c9ae
 }
 
 .historyItemDetails  {
@@ -100,16 +90,11 @@
 }
 
 .historyItemDetails h3 {
-<<<<<<< HEAD
     font-size: 23px;
-=======
-    font-size: 25px;
->>>>>>> 760b816310b888c64c419e7342f52dd4d4f0c9ae
     font-weight:500 ;
 }
 
 .historyItemDetails p {
-<<<<<<< HEAD
     font-size: 16px;
     font-weight: 300;
 }
@@ -118,12 +103,6 @@
   font-size: 18px;
 }
 
-=======
-    font-size: 20px;
-    font-weight: 300;
-}
-
->>>>>>> 760b816310b888c64c419e7342f52dd4d4f0c9ae
 .historyItemDetails ul {
     margin-top: 6px;
     list-style-position: inside;
